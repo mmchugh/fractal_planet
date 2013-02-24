@@ -7,8 +7,9 @@ Generate a spherical object using libnoise to perturb the surface. There are 2 d
 By default running the program will generate a planet using polar coordinates. If you pass in the arg 'c' to the program, it will switch to using the cube mapping method.
 
 Polar coordinates:
-![Polar coordinates screenshot](/screenshots/polar-planet1.jpg)
-![Polar coordinates screenshot](/screenshots/polar-planet2.jpg)
+![Polar coordinates screenshot](/screenshots/polar-planet1.png)
+![Polar coordinates screenshot](/screenshots/polar-planet2.png)
+
 Cube mapping:
-![Cube mapped screenshot](/screenshots/cube-planet1.jpg)
-![Cube mapped screenshot](/screenshots/cube-planet2.jpg)
+![Cube mapped screenshot](/screenshots/cube-planet1.png)
+![Cube mapped screenshot](/screenshots/cube-planet2.png)
