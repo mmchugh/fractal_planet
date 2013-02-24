@@ -311,7 +311,8 @@ int main( int argc, char *argv[] )
 
 	glfwEnable( GLFW_STICKY_KEYS );
 	glfwSetMousePos(1024/2, 768/2);
-
+	glfwDisable(GLFW_MOUSE_CURSOR);
+	
 	glClearColor(0.0f, 0.0f, 0.3f, 0.0f);
 
 	glEnable(GL_DEPTH_TEST);
